@@ -1,0 +1,5 @@
+
+[ERROR] [2022-12-13T19:03:03.275807700] Projext Explorer se ne moze obrisati
+[ERROR] [2022-12-14T12:12:29.384699200] Projext Explorer se ne moze obrisati
+[NOTIFICATION] [2023-01-03T12:41:14.228184] Element ne moze imati decu
+[ERROR] [2023-01-04T14:31:10.878664600] Projext Explorer se ne moze obrisati
